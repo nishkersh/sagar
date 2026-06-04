@@ -11,9 +11,9 @@
     <h1 align="center">Hi 👋, I'm Reek Chatterjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkersh&label=Profile%20views&color=0e75b6&style=flat" alt="nishkersh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar&label=Profile%20views&color=0e75b6&style=flat" alt="sagar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishkersh" alt="nishkersh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar" alt="sagar" /></a> </p>
 
 - 🔭 I’m currently pursuing **B.E in Information Technology from U.I.E.T ,Panjab University**
 
